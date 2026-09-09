@@ -1,0 +1,142 @@
+{
+  "url": "https://google.com/",
+  "timestamp": "2026-09-08T15:55:00.317Z",
+  "viewport": {
+    "width": 1280,
+    "height": 800
+  },
+  "elements": [
+    {
+      "id": "",
+      "selector": "a",
+      "tagName": "a",
+      "boundingBox": {
+        "x": 1041,
+        "y": 17,
+        "width": 34,
+        "height": 24
+      }
+    },
+    {
+      "id": "",
+      "selector": "a",
+      "tagName": "a",
+      "boundingBox": {
+        "x": 1089,
+        "y": 17,
+        "width": 33,
+        "height": 24
+      }
+    },
+    {
+      "id": "",
+      "selector": "a",
+      "tagName": "a",
+      "boundingBox": {
+        "x": 1137,
+        "y": 9,
+        "width": 40,
+        "height": 40
+      }
+    },
+    {
+      "id": "",
+      "selector": "a",
+      "tagName": "a",
+      "boundingBox": {
+        "x": 1185,
+        "y": 9,
+        "width": 85,
+        "height": 40
+      }
+    },
+    {
+      "id": "",
+      "selector": "a",
+      "tagName": "a",
+      "boundingBox": {
+        "x": 697,
+        "y": 492,
+        "width": 43,
+        "height": 15
+      }
+    },
+    {
+      "id": "",
+      "selector": "a",
+      "tagName": "a",
+      "boundingBox": {
+        "x": 20,
+        "y": 754,
+        "width": 127,
+        "height": 46
+      }
+    },
+    {
+      "id": "",
+      "selector": "a",
+      "tagName": "a",
+      "boundingBox": {
+        "x": 147,
+        "y": 754,
+        "width": 99,
+        "height": 46
+      }
+    },
+    {
+      "id": "",
+      "selector": "a",
+      "tagName": "a",
+      "boundingBox": {
+        "x": 246,
+        "y": 754,
+        "width": 85,
+        "height": 46
+      }
+    },
+    {
+      "id": "",
+      "selector": "a",
+      "tagName": "a",
+      "boundingBox": {
+        "x": 331,
+        "y": 754,
+        "width": 280,
+        "height": 46
+      }
+    },
+    {
+      "id": "",
+      "selector": "a",
+      "tagName": "a",
+      "boundingBox": {
+        "x": 1001,
+        "y": 754,
+        "width": 82,
+        "height": 46
+      }
+    },
+    {
+      "id": "",
+      "selector": "a",
+      "tagName": "a",
+      "boundingBox": {
+        "x": 1083,
+        "y": 754,
+        "width": 84,
+        "height": 46
+      }
+    },
+    {
+      "id": "",
+      "selector": "img",
+      "tagName": "img",
+      "boundingBox": {
+        "x": 811,
+        "y": 340,
+        "width": 0,
+        "height": 0
+      }
+    }
+  ]
+}
