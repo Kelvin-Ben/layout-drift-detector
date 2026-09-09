@@ -36,6 +36,7 @@ Options:
 ### 📂 Project Structure
 ```
 layout-drift-detector/
+├── baselines/          # Generate drift JSON data
 ├── src/              # Core detection logic
 ├── tests/            # Unit and integration tests
 ├── reports/          # Generated drift reports
